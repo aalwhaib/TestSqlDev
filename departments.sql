@@ -1,5 +1,5 @@
 --------------------------------------------------------
---  DDL for Table DEPARTMENTS hello xx cc tt
+--  DDL for Table DEPARTMENTS hello xx cc
 --------------------------------------------------------
 
   CREATE TABLE "FINGERPRINT7X"."DEPARTMENTS" 
