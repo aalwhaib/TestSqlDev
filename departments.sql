@@ -1,7 +1,9 @@
 --------------------------------------------------------
 --  DDL for Table DEPARTMENTS hello xx cc
 --------------------------------------------------------
-
+:TODO
+	- HELLO
+	+ XXXX
   CREATE TABLE "FINGERPRINT7X"."DEPARTMENTS" 
    (	"CHANGE_OPERATOR" NVARCHAR2(30), 
 	"CHANGE_TIME" TIMESTAMP (6), 
